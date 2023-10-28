@@ -1,0 +1,56 @@
+1684943626563|DDSNode | Installer le plugin dds
+1684943626608|DDSNode | Connexion
+1684943626614|DDSNode | Fin connexion
+1684943627637|DDSPlugin |  getWriterURI
+1684943627637|DDSPlugin | Write topic : Temperatures
+1684943627637|DDSPlugin | Propager topic : Temperatures
+1684943627637|DDSNode | Write topic :Temperatures
+1684943627638|LockPlugin | Lock topic :Temperatures
+1684943627638|LockPlugin | Fin lock topic :Temperatures Succes : true
+1684943627638|LockPlugin | Unlock topic :Temperatures
+1684943627638|LockPlugin | fin unLock topic :Temperatures
+1684943627638|LockPlugin | unlock topic :Temperatures not found
+1684943627638|DDSNode | Fin Write topic :Temperatures
+1684943627641|DDSPlugin | Fin propager topic : Temperatures
+1684943627641|DDSPlugin | Fin write topic : Temperatures
+1684943627705|DDSPlugin | Propager topic : Temperatures
+1684943627705|DDSNode | Write topic :Temperatures
+1684943627705|LockPlugin | Lock topic :Temperatures
+1684943627705|LockPlugin | Fin lock topic :Temperatures Succes : true
+1684943627706|LockPlugin | Unlock topic :Temperatures
+1684943627706|LockPlugin | fin unLock topic :Temperatures
+1684943627706|LockPlugin | unlock topic :Temperatures not found
+1684943627706|DDSNode | Fin Write topic :Temperatures
+1684943627713|DDSPlugin | Fin propager topic : Temperatures
+1684943630641|LockPlugin | Propagate Lock topic :Notification id = 549aacf9-7f56-4861-86cd-0309e619f09d
+1684943630641|LockPlugin | Try lock topic :Notification
+1684943630641|LockPlugin | Fin try lock topic :Notification Succes : true
+1684943630643|LockPlugin | Propagate Lock topic :Notification id = 549aacf9-7f56-4861-86cd-0309e619f09d
+1684943630644|LockPlugin | Propagate Lock topic :Notification id = 549aacf9-7f56-4861-86cd-0309e619f09d succes true
+1684943630646|DDSPlugin |  getReaderURI
+1684943630646|DDSPlugin |  read topic : Temperatures
+1684943630646|DDSNode | Read topic :Temperatures
+1684943630646|LockPlugin | Lock topic :Temperatures
+1684943630646|LockPlugin | Fin lock topic :Temperatures Succes : true
+1684943630646|LockPlugin | Unlock topic :Temperatures
+1684943630646|LockPlugin | fin unLock topic :Temperatures
+1684943630646|LockPlugin | unlock topic :Temperatures not found
+1684943630646|DDSNode | Fin read topic :Temperatures
+1684943630655|LockPlugin | Propagate unlock topic :Notification id propagation = 549aacf9-7f56-4861-86cd-0309e619f09d id propagationUnlock = e3caab80-8a76-4433-af4e-88f213aace8e
+1684943630655|LockPlugin | Unlock topic :Notification
+1684943630655|LockPlugin | fin unLock topic :Notification
+1684943630655|LockPlugin | unlock topic :Notification not found
+1684943630657|LockPlugin | Propagate Lock topic :Notification id = 5b5ae755-2eee-4225-b96e-f80d6f678797
+1684943630657|LockPlugin | Try lock topic :Notification
+1684943630657|LockPlugin | Fin try lock topic :Notification Succes : true
+1684943630658|LockPlugin | Propagate unlock topic :Notification id propagation = 549aacf9-7f56-4861-86cd-0309e619f09d id propagationUnlock = e3caab80-8a76-4433-af4e-88f213aace8e
+1684943630658|LockPlugin | Fin propagate unlock topic :Notification id propagation = 549aacf9-7f56-4861-86cd-0309e619f09d id propagationUnlock = e3caab80-8a76-4433-af4e-88f213aace8e
+1684943630659|LockPlugin | Propagate Lock topic :Notification id = 5b5ae755-2eee-4225-b96e-f80d6f678797
+1684943630659|LockPlugin | Propagate Lock topic :Notification id = 5b5ae755-2eee-4225-b96e-f80d6f678797 succes true
+1684943630661|LockPlugin | Propagate unlock topic :Notification id propagation = 5b5ae755-2eee-4225-b96e-f80d6f678797 id propagationUnlock = 87cf9c82-ae83-4c7a-a484-3b82d8e8eefe
+1684943630661|LockPlugin | Unlock topic :Notification
+1684943630661|LockPlugin | fin unLock topic :Notification
+1684943630661|LockPlugin | unlock topic :Notification not found
+1684943630662|LockPlugin | Propagate unlock topic :Notification id propagation = 5b5ae755-2eee-4225-b96e-f80d6f678797 id propagationUnlock = 87cf9c82-ae83-4c7a-a484-3b82d8e8eefe
+1684943630662|LockPlugin | Fin propagate unlock topic :Notification id propagation = 5b5ae755-2eee-4225-b96e-f80d6f678797 id propagationUnlock = 87cf9c82-ae83-4c7a-a484-3b82d8e8eefe
+1684943646633|DDSNode | Fin

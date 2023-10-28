@@ -1,0 +1,40 @@
+1684943626468|DDSNode | Installer le plugin dds
+1684943626572|DDSNode | Connexion
+1684943626596|DDSNode | Fin connexion
+1684943627625|DDSPlugin | Propager topic : Notes
+1684943627625|DDSNode | Write topic :Notes
+1684943627625|LockPlugin | Lock topic :Notes
+1684943627625|LockPlugin | Fin lock topic :Notes Succes : true
+1684943627625|LockPlugin | Unlock topic :Notes
+1684943627625|LockPlugin | fin unLock topic :Notes
+1684943627625|LockPlugin | unlock topic :Notes not found
+1684943627625|DDSNode | Fin Write topic :Notes
+1684943627626|DDSPlugin | Fin propager topic : Notes
+1684943627694|DDSPlugin |  getWriterURI
+1684943627695|DDSPlugin | Write topic : Notes
+1684943627695|DDSPlugin | Propager topic : Notes
+1684943627695|DDSNode | Write topic :Notes
+1684943627695|LockPlugin | Lock topic :Notes
+1684943627695|LockPlugin | Fin lock topic :Notes Succes : true
+1684943627695|LockPlugin | Unlock topic :Notes
+1684943627695|LockPlugin | fin unLock topic :Notes
+1684943627695|LockPlugin | unlock topic :Notes not found
+1684943627695|DDSNode | Fin Write topic :Notes
+1684943627696|DDSPlugin | Fin propager topic : Notes
+1684943627696|DDSPlugin | Fin write topic : Notes
+1684943630641|LockPlugin | Propagate Lock topic :Notification id = 549aacf9-7f56-4861-86cd-0309e619f09d
+1684943630654|LockPlugin | Propagate unlock topic :Notification id propagation = 549aacf9-7f56-4861-86cd-0309e619f09d id propagationUnlock = e3caab80-8a76-4433-af4e-88f213aace8e
+1684943630654|LockPlugin | Fin propagate unlock topic :Notification id propagation = 549aacf9-7f56-4861-86cd-0309e619f09d id propagationUnlock = e3caab80-8a76-4433-af4e-88f213aace8e
+1684943630656|LockPlugin | Propagate Lock topic :Notification id = 5b5ae755-2eee-4225-b96e-f80d6f678797
+1684943630661|LockPlugin | Propagate unlock topic :Notification id propagation = 5b5ae755-2eee-4225-b96e-f80d6f678797 id propagationUnlock = 87cf9c82-ae83-4c7a-a484-3b82d8e8eefe
+1684943630661|LockPlugin | Fin propagate unlock topic :Notification id propagation = 5b5ae755-2eee-4225-b96e-f80d6f678797 id propagationUnlock = 87cf9c82-ae83-4c7a-a484-3b82d8e8eefe
+1684943630699|DDSPlugin |  getReaderURI
+1684943630699|DDSPlugin |  read topic : Notes
+1684943630699|DDSNode | Read topic :Notes
+1684943630699|LockPlugin | Lock topic :Notes
+1684943630699|LockPlugin | Fin lock topic :Notes Succes : true
+1684943630699|LockPlugin | Unlock topic :Notes
+1684943630699|LockPlugin | fin unLock topic :Notes
+1684943630699|LockPlugin | unlock topic :Notes not found
+1684943630699|DDSNode | Fin read topic :Notes
+1684943646609|DDSNode | Fin
